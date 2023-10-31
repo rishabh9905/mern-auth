@@ -1,6 +1,7 @@
 {
   "name": "authproject",
   "version": "1.0.0",
+  "proxy" :"mongodb+srv://rishabh:lKBwCpOE3l5zvppu@mern.kjnp1vw.mongodb.net/mern-auth?retryWrites=true&w=majority",
   "description": "",
   "type": "module",
   "main": "index.js",
